@@ -4,6 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
 <div>
 <p>This is a secondary account for repositories containing; code from coding bootcamps and code from practice / studying various things such as languages, frameworks and libraries.<p>
 <p>Larger more comprehensive projects can be found on my primary account at <> <p>  
@@ -19,7 +20,7 @@ I am a Junior Software Engineer from the UK  <img src="https://media.giphy.com/m
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -35,8 +36,8 @@ I am a Junior Software Engineer from the UK  <img src="https://media.giphy.com/m
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee862&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee862&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 ---
 
 <!---
