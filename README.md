@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center" margin="0">
   <h1>
     Hello. 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -34,7 +34,6 @@ I am a Junior Software Engineer from the UK  <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
 <!---
 daniellee862/daniellee862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
