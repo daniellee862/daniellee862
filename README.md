@@ -10,16 +10,8 @@
 <p>Larger more comprehensive projects can be found on my primary account at <> <p>  
 </div>
 
----
 
-### About Me :
-I am a Junior Software Engineer from the UK  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :seedling: I am currently studying on the Northcoders 13-week Data Engineering Bootcamp.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
