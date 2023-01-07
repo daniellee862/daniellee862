@@ -36,10 +36,6 @@ I am a Junior Software Engineer from the UK  <img src="https://media.giphy.com/m
 
 ---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee862&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
----
-
 <!---
 daniellee862/daniellee862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
