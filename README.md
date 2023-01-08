@@ -7,7 +7,7 @@
 
 <div>
 <p>This is a secondary account for repositories containing; code from coding bootcamps and code from practice / studying various things such as languages, frameworks and libraries.<p>
-<p>Larger more comprehensive projects can be found on my primary account at <> <p>  
+<p>Larger more comprehensive projects can be found on my primary account: <a href="https://github.com/daniellee86" target="_blank">HERE</a> <p>  
 </div>
 
 
