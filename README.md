@@ -26,6 +26,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## &#x1f4c8; GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel862&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniellee862&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniellee862&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniellee862&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniellee862&theme=nord_dark)
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arham-12336&layout=compact&theme=dark" alt="Arham"/></p>
+  </div>
+
 
 <!---
 daniellee862/daniellee862 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
