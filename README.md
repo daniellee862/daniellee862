@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-<p>My secondary account for smaller projects, code from my learning journey, practice sessions and bootcamps.<p>
+<p>On this secondary account you will find smaller projects, code from my learning journey, practice sessions and bootcamps.<p>
 <p>For larger and more comprehensive projects you can check out my primary account: <a href="https://github.com/daniellee86" target="_blank">HERE</a></p>     
 
 <h3 align="left">Languages and Tools:</h3>  
